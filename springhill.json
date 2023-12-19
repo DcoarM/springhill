@@ -1,0 +1,27 @@
+{
+    "WBUI2": {
+        "settings": {
+            "OpenButton": 0,
+            "HideIcon": false,
+            "HideIconAfter": 60,
+            "IconURL": "https://imgur.com/gallery/ZEXL4sA",
+            "DisableIconText": false,
+            "IconPosition": 0,
+            "IconTextColor": 0,
+            "OpenOnStart": true,
+            "OpenOnStartOnlyNewPlayers": true,
+            "UpdateInterval": 12
+        },
+        "tabs": [
+            {
+                "tab1": {
+                    "layout": 1,
+                    "buttontext": "Welcome",
+                    "title1": "Thank you for joing Springhill - Your Ark Home",
+                    "text1": "Be sure to check out our discord!",
+                    "imageurl": "https://imgur.com/gallery/ZEXL4sA"
+                }
+            }
+        ]
+    }
+}
